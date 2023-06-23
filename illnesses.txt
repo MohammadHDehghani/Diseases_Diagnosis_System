@@ -1,0 +1,46 @@
+Influenza symptoms are fever, cough, sore_throat, runny_nose, body_aches, headache, chills, and fatigue.
+Malaria symptoms are fever, chills, headache, muscle_pain, and fatigue.
+Tuberculosis symptoms are cough, chest_pain, coughing_up_blood, fatigue, fever, and night_sweats.
+Pneumonia symptoms are cough, fever, chills, shortness_of_breath, chest_pain, and fatigue.
+Diabetes symptoms are frequent_urination, excessive_thirst, hunger, fatigue, blurred_vision, and slow_healing.
+Asthma symptoms are wheezing, coughing, shortness_of_breath, chest_tightness, and difficulty_breathing.
+Arthritis symptoms are joint_pain, stiffness, swelling, redness, and decreased_range.
+Hypertension symptoms are headache, dizziness, blurred_vision, chest_pain, and shortness_of_breath.
+Heart_disease symptoms are chest_pain, shortness_of_breath, fatigue, dizziness, and irregular_heartbeat.
+Cancer symptoms depend on the type of cancer, but can include fatigue, weight_loss, and pain.
+Alzheimer symptoms are memory_loss, confusion, difficulty_language, and mood_swings.
+Parkinson disease symptoms are tremors, stiffness, slow_movement, and difficulty_balance.
+Multiple sclerosis symptoms are fatigue, numbness_tingling, muscle_weakness, and difficulty_coordination.
+Epilepsy symptoms are seizures, loss_of_consciousness, and confusion.
+Schizophrenia symptoms are delusions, hallucinations, disorganized_speech, and abnormal_behavior.
+Bipolar disorder symptoms are mood_swings, depression, mania, and changes_sleep.
+Obsessive-compulsive disorder symptoms are obsessive_thoughts, and compulsive_behaviors.
+Post-traumatic stress disorder symptoms are flashbacks, nightmares, anxiety, and avoidance_triggers.
+Attention deficit hyperactivity disorder symptoms are hyperactivity, impulsivity, and difficulty_focus.
+Autism_spectrum_disorder symptoms are difficulty_social, communication, and repetitive_behaviors.
+Down_syndrome symptoms are intellectual_disability, characteristic_facial, and developmental_delays.
+Cerebral_palsy symptoms are muscle_weakness, spasticity, and difficulty_coordination.
+Muscular_dystrophy symptoms are muscle_weakness, wasting, difficulty_movement, and respiratory_problems.
+Sickle_cell anemia symptoms are pain, fatigue, and increased_risk.
+Hemophilia symptoms are excessive_bleeding, bruising, joint_pain, swelling, and fatigue.
+Lupus symptoms are joint_pain, swelling, fatigue, skin_rashes, and fever.
+Crohn_disease symptoms are abdominal_pain, diarrhea, fatigue, and weight_loss.
+Ulcerative_colitis symptoms are abdominal_pain, diarrhea, rectal_bleeding, and fatigue.
+Irritable_bowel syndrome symptoms are abdominal_pain, bloating, constipation, and diarrhea.
+Gastroesophageal_reflux_disease symptoms are heartburn, chest_pain, and difficulty_swallowing.
+Chronic_obstructive_pulmonary disease symptoms are cough, shortness_of_breath, wheezing, and chest_tightness.
+Sleep_apnea symptoms are loud_snoring, gasping_choking, and excessive_daytime_sleepiness.
+Fibromyalgia symptoms are widespread_pain, fatigue, and sleep_disturbances.
+Chronic_fatigue syndrome symptoms are severe_fatigue, muscle_pain, and cognitive_difficulties.
+Lyme_disease symptoms are fever, headache, fatigue, and characteristic_rash.
+West_Nile_virus symptoms are fever, headache, body_aches, and fatigue.
+Zika_virus symptoms are fever, rash, joint_pain, and conjunctivitis.
+Dengue_fever symptoms are fever, headache, joint_pain, and rash.
+Chikungunya_virus symptoms are fever, joint_pain, and rash.
+Yellow_fever symptoms are fever, headache, muscle_pain, and jaundice.
+Measles symptoms are fever, cough, runny_nose, and characteristic_rash.
+Chickenpox symptoms are fever, fatigue, and characteristic_rash.
+Shingles symptoms are pain, itching, and blistering_rash.
+HIV/AIDS symptoms are fatigue, weight_loss, fever, and opportunistic_infections.
+Hepatitis_B symptoms are fatigue, abdominal_pain, and jaundice.
+Hepatitis_C symptoms are fatigue, and abdominal_pain.
